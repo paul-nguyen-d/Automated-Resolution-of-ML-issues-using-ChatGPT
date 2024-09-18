@@ -1,5 +1,4 @@
 # Automated Resolution of ML issues using ChatGPT
-_Internship at Applied Artificial Intelligence Institute_
 
 ## A. Method
 ### Dataset
